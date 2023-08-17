@@ -20,8 +20,8 @@ This is a Node.js backend application that retrieves and updates cryptocurrency 
 This application provides a backend system for retrieving and updating cryptocurrency data. It utilizes CoinGecko API to fetch coin details and prices, and stores the data in AirTable. The application includes functionalities such as rate limiting, cache management, and background jobs for data updates.
 
 ## Getting Started
-## VIDEO-https://drive.google.com/file/d/1xQslOrILWPR4zdTRlTXNU7DtxXG9SffT/view?usp=sharing
-
+## VIDEO-[https://drive.google.com/file/d/1xQslOrILWPR4zdTRlTXNU7DtxXG9SffT/view?usp=sharing
+](https://drive.google.com/file/d/1KdRjronausZHIcE2CwITPcr6ZQ-OF63e/view?usp=sharing)
 ### Prerequisites
 
 - Node.js and npm: Make sure you have Node.js and npm installed. You can download them from [nodejs.org](https://nodejs.org/).
