@@ -51,8 +51,9 @@ This application provides a backend system for retrieving and updating cryptocur
    - Add the following variables and replace the placeholders with your actual values:
 
      
-     AIRTABLE_API_KEY=pat76wu4swkHUpL5L.18ab2d881e18f0d1dfdc85c1d59feb3a23dd900f9617be9d94b7d61dc9b7a622
-     AIRTABLE_BASE_ID=appkpR0bdPcoJMvq9
+     ->AIRTABLE_API_KEY=pat76wu4swkHUpL5L.18ab2d881e18f0d1dfdc85c1d59feb3a23dd900f9617be9d94b7d61dc9b7a622
+     
+     ->AIRTABLE_BASE_ID=appkpR0bdPcoJMvq9
      
 
 ## Usage
@@ -64,8 +65,8 @@ This application provides a backend system for retrieving and updating cryptocur
    
 
 2. Access the API endpoints in your browser or a tool like Postman:
-   - To get the price of a specific coin: `http://localhost:3000/coins/price/bitcoin`
-   - To get the market details: `http://localhost:3000/coins/market`
+   - To get the price of a specific coin: `https://api.coingecko.com/api/v3/simple/price`
+   - To get the market details: `https://api.coingecko.com/api/v3/coins/markets`
 
 3. Background jobs will periodically update cache, coin details, and market details as per the specified intervals.
 
