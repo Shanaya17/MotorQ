@@ -86,6 +86,8 @@ This application provides a backend system for retrieving and updating cryptocur
 - Unit Testing: Use testing frameworks like Mocha, Jest, or Chai to write and execute unit tests for your components.
 - Integration Testing: Test interactions between different components.
 - API Testing: Use tools like Postman for API testing.
+## Contributing
 
+Contributions are welcome! Feel free to fork the repository and submit pull requests. Please make sure to follow the contribution guidelines.
 
 ```
